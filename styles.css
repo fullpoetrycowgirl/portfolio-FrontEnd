@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <!-- Aca va todo lo que quieras escribir que NO se ve -->
+        <meta charset= "utf-8">
+        <!-- Esto es para establecer los caracteres -->
+        <title> Mi pagina de prueba </title>
+        <!-- Este es el titulo de la pestaña -->
+    </head>
+    <body>
+    <!-- Aca va todo lo que SI queres que se vea -->
+        <img src = "nombre de imagen.algo" alt = "mi descripcion de imagen">
+        <h1></h1>
+        <!-- son los encabezados en 6 tamanios -->
+        <p></p>
+        <!-- esto es para los parrafos -->
+        <b> es negrita </b>
+        <strong> es mas fuerte que negrita </strong>
+        <i> es italica </i>
+        <em> le da enfasis al texto </em>
+        <br>
+        <!-- esto salta la linea -->
+        <li>son elementos de una lista</li>
+        <ol>define listas con numeros o alfabeticamente</ol>
+        <ul> son listas desordenadas </ul>
+        <div> contiene otros elementos </div>
+        <a href=algunaURL/a> </a>
+        <!-- crea enlaces a otras paginas -->
+    </body>
+</html>
